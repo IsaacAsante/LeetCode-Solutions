@@ -1,6 +1,6 @@
 /* Author: Isaac Asante
  * LeetCode URL for this problem: https://leetcode.com/problems/two-sum-iv-input-is-a-bst/
- * Original video explanation: Pending
+ * Original video explanation: https://www.youtube.com/watch?v=xAcqXgxV018
  * Last verified on: March 4, 2023
  */
 

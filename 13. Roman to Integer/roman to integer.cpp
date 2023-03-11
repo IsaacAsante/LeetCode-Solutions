@@ -1,6 +1,6 @@
 /* Author: Isaac Asante
  * LeetCode URL for this problem: https://leetcode.com/problems/roman-to-integer/
- * Original video explanation: Pending
+ * Original video explanation: https://www.youtube.com/watch?v=ooL8-TEPNuU
  * Last verified on: January 24, 2023
  */
 

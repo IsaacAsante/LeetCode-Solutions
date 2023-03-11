@@ -1,6 +1,6 @@
 /* Author: Isaac Asante
  * LeetCode URL for this problem: https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/
- * Original video explanation: Pending
+ * Original video explanation: https://www.youtube.com/watch?v=SX3ykIaxcTs
  * Last verified on: March 4, 2023
  */
 

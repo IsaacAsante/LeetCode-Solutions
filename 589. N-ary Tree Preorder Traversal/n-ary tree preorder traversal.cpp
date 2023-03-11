@@ -1,6 +1,6 @@
 /* Author: Isaac Asante
  * LeetCode URL for this problem: https://leetcode.com/problems/n-ary-tree-preorder-traversal/
- * Original video explanation: Pending
+ * Original video explanation: https://www.youtube.com/watch?v=EVMemtP21_4
  * Last verified on: March 4, 2023
  */
 

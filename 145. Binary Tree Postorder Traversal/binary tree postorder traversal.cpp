@@ -1,6 +1,6 @@
 /* Author: Isaac Asante
  * LeetCode URL for this problem: https://leetcode.com/problems/binary-tree-postorder-traversal/
- * Original video explanation: Pending
+ * Original video explanation: https://www.youtube.com/watch?v=bPqn35juyh8
  * Last verified on: January 24, 2023
  */
 

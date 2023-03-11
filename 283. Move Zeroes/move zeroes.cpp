@@ -1,6 +1,6 @@
 /* Author: Isaac Asante
  * LeetCode URL for this problem: https://leetcode.com/problems/move-zeroes/
- * Original video explanation: Pending
+ * Original video explanation: https://www.youtube.com/watch?v=p2Cy5_N5uFg
  * Last verified on: March 4, 2023
  */
 

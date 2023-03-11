@@ -1,6 +1,6 @@
 /* Author: Isaac Asante
  * LeetCode URL for this problem: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
- * Original video explanation: Pending
+ * Original video explanation: https://www.youtube.com/watch?v=xB3zvkx1qms
  * Last verified on: January 24, 2023
  */
 

@@ -1,6 +1,6 @@
 /* Author: Isaac Asante
  * LeetCode URL for this problem: https://leetcode.com/problems/first-unique-character-in-a-string/
- * Original video explanation: Pending
+ * Original video explanation: https://www.youtube.com/watch?v=P85M0CFwklQ
  * Last verified on: March 4, 2023
  */
 

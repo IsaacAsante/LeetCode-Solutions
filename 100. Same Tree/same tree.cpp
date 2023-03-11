@@ -1,6 +1,6 @@
 /* Author: Isaac Asante
  * LeetCode URL for this problem: https://leetcode.com/problems/same-tree/
- * Original video explanation: Pending
+ * Original video explanation: https://www.youtube.com/watch?v=y42V9IQZD8k
  * Last verified on: January 24, 2023
  */
 

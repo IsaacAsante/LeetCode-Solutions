@@ -1,6 +1,6 @@
 /* Author: Isaac Asante
  * LeetCode URL for this problem: https://leetcode.com/problems/defanging-an-ip-address/
- * Original video explanation: Pending
+ * Original video explanation: https://www.youtube.com/watch?v=okqVFD5-7UY
  * Last verified on: March 4, 2023
  */
 

@@ -1,6 +1,6 @@
 /* Author: Isaac Asante
  * LeetCode URL for this problem: https://leetcode.com/problems/first-bad-version/
- * Original video explanation: Pending
+ * Original video explanation: https://www.youtube.com/watch?v=_8HII0HpGMA
  * Last verified on: March 4, 2023
  */
 

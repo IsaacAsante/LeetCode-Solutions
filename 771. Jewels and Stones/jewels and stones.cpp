@@ -1,6 +1,6 @@
 /* Author: Isaac Asante
  * LeetCode URL for this problem: https://leetcode.com/problems/jewels-and-stones/
- * Original video explanation: Pending
+ * Original video explanation: https://www.youtube.com/watch?v=3PItz3_mlFQ
  * Last verified on: March 4, 2023
  */
 

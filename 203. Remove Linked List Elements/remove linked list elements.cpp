@@ -1,6 +1,6 @@
 /* Author: Isaac Asante
  * LeetCode URL for this problem: https://leetcode.com/problems/remove-linked-list-elements/
- * Original video explanation: Pending
+ * Original video explanation: https://www.youtube.com/watch?v=gUe5wughUQ4
  * Last verified on: March 4, 2023
  */
 

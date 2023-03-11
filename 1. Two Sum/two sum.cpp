@@ -1,6 +1,6 @@
 /* Author: Isaac Asante
  * LeetCode URL for this problem: https://leetcode.com/problems/two-sum/
- * Original video explanation: Pending
+ * Original video explanation: https://www.youtube.com/watch?v=vTbqhSkRskw
  * Last verified on: January 24, 2023
  */
 

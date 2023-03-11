@@ -1,6 +1,6 @@
 /* Author: Isaac Asante
  * LeetCode URL for this problem: https://leetcode.com/problems/find-the-difference/
- * Original video explanation: Pending
+ * Original video explanation: https://www.youtube.com/watch?v=xacZ1YgKXhQ
  * Last verified on: March 4, 2023
  */
 

@@ -1,6 +1,6 @@
 /* Author: Isaac Asante
  * LeetCode URL for this problem: https://leetcode.com/problems/find-players-with-zero-or-one-losses/
- * Original video explanation: Pending
+ * Original video explanation: https://www.youtube.com/watch?v=A9S98aVOpdk
  * Last verified on: March 4, 2023
  */
 

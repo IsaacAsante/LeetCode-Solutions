@@ -1,6 +1,6 @@
 /* Author: Isaac Asante
  * LeetCode URL for this problem: https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/
- * Original video explanation: Pending
+ * Original video explanation: https://www.youtube.com/watch?v=ho_NQ5awiC0
  * Last verified on: March 4, 2023
  */
 

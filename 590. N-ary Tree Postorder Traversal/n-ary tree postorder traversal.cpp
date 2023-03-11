@@ -1,6 +1,6 @@
 /* Author: Isaac Asante
  * LeetCode URL for this problem: https://leetcode.com/problems/n-ary-tree-postorder-traversal/
- * Original video explanation: Pending
+ * Original video explanation: https://www.youtube.com/watch?v=NIu1GdimTIo
  * Last verified on: March 4, 2023
  */
 

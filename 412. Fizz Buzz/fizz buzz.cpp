@@ -1,6 +1,6 @@
 /* Author: Isaac Asante
  * LeetCode URL for this problem: https://leetcode.com/problems/fizz-buzz/
- * Original video explanation: Pending
+ * Original video explanation: https://www.youtube.com/watch?v=ZJR71jTxpiQ
  * Last verified on: March 4, 2023
  */
 
